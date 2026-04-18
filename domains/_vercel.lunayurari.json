@@ -1,9 +1,10 @@
 {
   "owner": {
     "username": "lunayurari",
+    "x": "lunayurari"
   },
   "records": {
-    "TXT": "vc-domain-verify=lunayurari.is-a.dev,d53b4126c0d82445bf20",
+    "TXT": "vc-domain-verify=lunayurari.is-a.dev,97e6c10c247ee2803977",
   },
   "proxied": false
 }

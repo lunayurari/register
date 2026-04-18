@@ -1,9 +1,10 @@
 {
   "owner": {
     "username": "lunayurari",
+        "x":"lunayurari"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com",
+    "CNAME": "cname.vercel-dns.com"
   },
   "proxied": false
 }
